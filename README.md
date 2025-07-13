@@ -26,6 +26,10 @@ A modern, full-featured food delivery web application with a beautiful UI, real-
 ## 📸 Screenshots
 
 <img width="943" height="413" alt="Tastico-app" src="https://github.com/user-attachments/assets/002b921f-f82c-45d9-940c-53fce34b9c9f" />
+<img width="945" height="410" alt="home" src="https://github.com/user-attachments/assets/b65940f4-4794-47c9-97dd-4f8d33686a7f" />
+<img width="956" height="409" alt="ai" src="https://github.com/user-attachments/assets/f7439e02-17d6-44da-aa94-79f4525e71ff" />
+
+
 
 ---
 
